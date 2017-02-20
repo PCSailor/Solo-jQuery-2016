@@ -1,23 +1,23 @@
 /* DO NOT MODIFY THIS FILE */
-.color-cube {
+.color-button {
   width: 100px;
   height: 100px;
   display: inline-block;
   border: 1px solid black;
 }
 
-.red {
+#red {
   background-color: red;
 }
 
-.yellow {
+#yellow {
   background-color: yellow;
 }
 
-.green {
+#green {
   background-color: green;
 }
 
-.blue {
+#blue {
   background-color: blue;
 }
